@@ -7,10 +7,17 @@ This dataset is part of a thesis conducted at the MIRACL research laboratory, fo
 - The collection period extends from May 19, 2009, to February 27, 2024.
 - The data collection detailed in our paper titled " An agricultural sentiment dataset for pest control
 and crop diseases".
+
 # Content of Twitter_Dataset
 - The data is a CSV file comprising 1617 tweets collected on pest control and crop diseases in agriculture.
 - The tweets are categorized into six types of pests and diseases: "Insects", "Fungi", "Herbs", "Bacteria", "Nematodes", and "Viruses".
 - Each tweet includes columns for "class", "user", "userLink", "tweet", and "date".
+
+# Annotation
+The tweets were manually labeled in collaboration with INAT’s agricultural domain experts. This process involves reading the tweets
+and attributing associated four polarities (positive, negative, neutral, or mixed feelings).
+The annotation of the Twitter dataset shows a distribution of sentiments as follows: 608 positive, 436 negative, 486 neutral, and 87 mixed-feelings sentiments.
+
 # Statistics
 The aspect 'control methods' contains 11.7% of reviews are mixed-feelings, 13.4% of reviews are negative, 16.6% of reviews are neutral, 58.3% of reviews are positive.
 The aspect 'disease' contains 3.8% of reviews are mixed-feelings, 29.9% of reviews are negative, 37.1% of reviews are neutral, 29.1% of reviews are positive.
