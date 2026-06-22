@@ -1,5 +1,5 @@
 # Context
-This dataset is part of a thesis conducted at the MIRACL research laboratory, focusing on sentiment analysis within the agricultural sector. Our dataset is enriched through collaboration with agricultural experts from the National Agronomic Institute of Tunisia (INAT), to identify sentiment polarities and ensure the annotation process. 
+This dataset was developed as part of an academic research project, focusing on sentiment analysis within the agricultural sector. Our dataset is enriched through collaboration with agricultural experts from a National Agronomic Institute, to identify sentiment polarities and ensure the annotation process. 
 --> To address the current lack of datasets in this field, we propose a method for constructing such datasets by collecting and annotating tweets related to pest control and crop diseases in agriculture.
 
 # How was it collected?
@@ -14,7 +14,7 @@ and crop diseases".
 - Each tweet includes columns for "class", "user", "userLink", "tweet", and "date".
 
 # Annotation
-The tweets were manually labeled in collaboration with INAT’s agricultural domain experts. This process involves reading the tweets
+The tweets were manually labeled in collaboration with ****’s agricultural domain experts. This process involves reading the tweets
 and attributing associated four polarities (positive, negative, neutral, or mixed feelings).
 The annotation of the Twitter dataset shows a distribution of sentiments as follows: 608 positive, 436 negative, 486 neutral, and 87 mixed-feelings sentiments.
 
